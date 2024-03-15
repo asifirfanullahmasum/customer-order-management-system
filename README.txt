@@ -3,7 +3,7 @@ Install python dependencies using following:
 2. pip install python-dotenv
 
 Set Environment Variable:
-1. Open .env
+1. Create .env using envsample.txt
 2. Change according to DB settings
 
 Run Script:
